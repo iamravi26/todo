@@ -1,0 +1,10 @@
+
+footer {
+    background: var(--main-bg-color);
+    color: white;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto Slab', serif;
+}
